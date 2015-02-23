@@ -1,7 +1,7 @@
 # Site settings
 title: Miguel Rentes
 email: miguel.rentes@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > 
   personal blog
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "http://rentes.github.io" # the base hostname & protocol for your site
