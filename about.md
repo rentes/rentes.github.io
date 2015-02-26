@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi! I am Miguel Rentes and I am a software engineer.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I write this blog on different software topics, because I like to talk about
+software and this is also great for me to get your feedback and possibly learn
+more about software.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Feel free to e-mail me on any software related topic or on my blog posts.
+
+Thank you very much for viewing my blog.
+
+Regards!
