@@ -4,16 +4,13 @@ title:  "About requestAnimationFrame"
 date:   2015-02-26 17:43:58
 ---
 
-<iframe width="661" height="402" src="https://www.youtube.com/embed/XAqIpGU8ZZk" frameborder="0" allowfullscreen></iframe>
+<div><iframe width="661" height="402" src="https://www.youtube.com/embed/XAqIpGU8ZZk?start=2884" frameborder="0" allowfullscreen=""></iframe></div>
 
-Skip to minute <a
-href="https://www.youtube.com/watch?v=XAqIpGU8ZZk#t=2884"
-target="_blank">48:04</a> for an excellent overview on
-requestAnimationFrame function.
+At minute 48:04, Lilli Thompson gives an excellent overview on the requestAnimationFrame function.
 
 <iframe width="661" height="402" src="https://www.youtube.com/embed/rNsC1VI9388" frameborder="0" allowfullscreen></iframe>
 
-Check out my [requestAnimFrame gist][requestAnimFrame-gist] for a code
+Also, check out my [requestAnimFrame gist][requestAnimFrame-gist] for a code
 sample in which setInterval, clearInterval, setTimeout, and
 clearTimeout functions use requestAnimationFrame function whenever
 possible for performance purposes.
