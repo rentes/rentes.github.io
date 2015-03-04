@@ -1,12 +1,19 @@
-# Site settings
-title: Miguel Rentes
-email: miguel.rentes@gmail.com
-description: > 
-  A blog on randomly chosen software topics.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://rentes.github.io" # the base hostname & protocol for your site
-twitter_username: rentes
-github_username:  rentes
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-# Build settings
-markdown: kramdown
+# Setup
+title:            Miguel Rentes
+tagline:          A blog on randomly chosen software topics.
+url:              https://rentes.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Miguel Rentes
+  url:            https://twitter.com/rentes
+  email:          miguel.rentes@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/rentes/
