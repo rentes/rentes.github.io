@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "dev.life interviews on Fog Creek"
+title:  "dev.life interviews from Fog Creek"
 date:   2015-04-09 11:05:07
 comments: true
 ---
