@@ -12,6 +12,10 @@ to get your feedback so we can all learn more about software construction.
 Feel free to e-mail me on any software related topic or leave a
 comment on my blog posts.
 
+You can find more information about me on my [about.me][about-me] page.
+
 Thank you very much for reading my blog.
 
 Regards!
+
+[about-me]: http://about.me/rentes/ 
