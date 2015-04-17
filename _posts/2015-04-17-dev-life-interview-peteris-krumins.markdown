@@ -173,9 +173,9 @@ Se eu tivesse mais tempo, combinaria o Oculus Rift com uma plataforma de desloca
 
 ## Quando não estás a programar, o que gostas de fazer?
 
-Eu gosto de me manter em forma. Eu pratico atletismo. Descobri que correr pistas é bem melhor do tomar café. Nos dias em que eu faço *sprints* de 10x60m fico com energia para 10-12 horas e consigo programar a noite toda. Também gosto de competir em competições de atletismo. As corridas de 400m e 800m são as minhas distâncias favoritas.
+Eu gosto de me manter em forma. Eu pratico atletismo. Descobri que correr pistas é bem melhor do que tomar café. Nos dias em que eu faço *sprints* de 10x60m fico com energia para 10-12 horas e consigo programar a noite toda. Também gosto de competir em competições de atletismo. As corridas de 400m e 800m são as minhas distâncias favoritas.
 
-## Que conselho darias ao teu eu mais novo que estivesse a começar a programar?
+## Que conselho darias ao teu eu mais novo que estivesse agora a começar a programar?
 
 Consigo pensar em quatro conselhos a dar ao meu eu mais novo:
 
