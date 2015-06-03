@@ -1,25 +1,19 @@
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
 # Setup
-title:            Miguel Rentes
-tagline:          A blog on randomly chosen software topics.
-url:              https://rentes.github.io
-paginate:         1
-baseurl:          /
-author:
-  name:           Miguel Rentes
-  url:            https://twitter.com/rentes
-  email:          miguel.rentes@gmail.com
+title:               Miguel Rentes
+header-img:          img/home-bg.jpg
+email:               miguel.rentes@gmail.com
+description:         "Miguel Rentes' personal blog about Software construction and related topics."
+baseurl:             ""
+url:                 "https://rentes.github.io"
+twitter_username:    rentes
+github_username:     rentes
+facebook_username:   miguel.rentes
 
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/rentes/
 
-pages_list:
-  About: '/about/'
-  Archive: '/archive/'
-  Feed: '/atom.xml'
-
+# Build settings
+permalink:           pretty
+relative_permalinks: true
+markdown:            kramdown
+highlighter:         pygments
+paginate:            5
+exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md"]

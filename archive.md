@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive
+header-img: "img/archive-bg.jpg"
 ---
 
 ## Blog posts
