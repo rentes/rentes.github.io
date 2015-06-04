@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rentes/IronSummitMedia/startbootstrap-clean-blog-jekyll.git"
+    "url": "git+https://github.com/rentes/rentes.github.io.git"
   },
   "description": "This is my personal blog about Software construction and related topics.",
   "bugs": {
-    "url": "https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/issues"
+    "url": "https://github.com/rentes/rentes.github.io/issues"
   },
   "main": "Gruntfile.js",
   "scripts": {

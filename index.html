@@ -14,7 +14,10 @@ description: "Software construction related topics"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+	  <span class="middot-divider"></span>
+	  <span data-toggle="tooltip" data-placement="bottom" title="{{ post.content | strip_html | number_of_words | append:' words'}}">{% capture reading_time %}{{ post.content | strip_html | number_of_words | plus:91 | divided_by:180 }}{% endcapture %}{% if reading_time <= '1' %}{{ 1 | append:' minute read' }}{% else %}{{ reading_time | append:' minutes read' }}{% endif %}</span>
+	</p>
 </div>
 <hr>
 {% endfor %}
