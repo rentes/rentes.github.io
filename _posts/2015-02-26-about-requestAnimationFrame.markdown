@@ -2,6 +2,7 @@
 layout: post
 title:  "About requestAnimationFrame"
 date:   2015-02-26 17:43:58
+author: Miguel Rentes
 comments: true
 ---
 

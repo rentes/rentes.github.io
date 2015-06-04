@@ -2,6 +2,7 @@
 layout: post
 title:  "How to learn to code"
 date:   2015-05-05 16:43:52
+author: Miguel Rentes
 comments: true
 ---
 

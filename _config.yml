@@ -1,5 +1,5 @@
 # Setup
-title:               Miguel Rentes
+title:               Clean Coding
 header-img:          img/home-bg.jpg
 email:               miguel.rentes@gmail.com
 description:         "Miguel Rentes' personal blog about Software construction and related topics."
@@ -8,7 +8,7 @@ url:                 "https://rentes.github.io"
 twitter_username:    rentes
 github_username:     rentes
 facebook_username:   miguel.rentes
-
+author:              Miguel Rentes
 
 # Build settings
 permalink:           pretty

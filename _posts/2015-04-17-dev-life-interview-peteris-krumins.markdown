@@ -2,6 +2,7 @@
 layout: post
 title:  "dev.life - interview with Peteris Krumins"
 date:   2015-04-17 10:49:23
+author: Miguel Rentes
 comments: true
 ---
 
