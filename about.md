@@ -7,9 +7,9 @@ header-img: "img/about-bg.jpg"
 
 Hi! My name is Miguel Rentes and I am a software engineer from Porto, Portugal.
 
-I created this blog because I like to write about software and share knowledge in the process. This blog is also a great way for me to get your feedback so we can all learn more about software construction or any related topic.
+I love programming in Python, Ruby, and Objective-C. I also love touchtyping in my IBM Model M and use Emacs as my text editor of choice. I work in Mac OS at home and Arch Linux at the office.
 
-Feel free to [e-mail me](mailto:miguel.rentes@gmail.com) or leave a comment on any of my blog posts. You can find more information about me on the bottom links.
+I created this blog because I like to write about software and to share knowledge in the process. Feel free to [e-mail me](mailto:miguel.rentes@gmail.com) or leave a comment on any of my blog posts. You can find more information about me on the bottom links.
 
 Thank you very much for reading my blog.
 
