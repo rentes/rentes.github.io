@@ -20,7 +20,7 @@ instagram_username:   miguelrentes
 # Build settings
 permalink:            pretty
 relative_permalinks:  true
-markdown:             kramdown
+markdown:             redcarpet
 highlighter:          pygments
 paginate:             5
 exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md"]
