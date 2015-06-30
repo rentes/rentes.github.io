@@ -1,21 +1,21 @@
 # Setup
-title:                Clean Coding
-header-img:           img/home-bg.jpg
-email:                miguel.rentes@gmail.com
-author:               Miguel Rentes
-description:          "Miguel Rentes' personal blog about Software construction and related topics."
-baseurl:              ""
-url:                  "https://rentes.github.io"
-twitter_username:     rentes
-github_username:      rentes
-facebook_username:    miguel.rentes
-tumblr_username:      miguelrentes
-aboutme_username:     rentes
-flickr_username:      mrentes
-google-plus_username: MiguelRentes
-linkedin_username:    miguelrentes
-instagram_username:   miguelrentes
-
+title:                  Clean Coding
+header-img:             img/home-bg.jpg
+email:                  miguel.rentes@gmail.com
+author:                 Miguel Rentes
+description:            "Miguel Rentes' personal blog about Software construction and related topics."
+baseurl:                ""
+url:                    "https://rentes.github.io"
+twitter_username:       rentes
+github_username:        rentes
+facebook_username:      miguel.rentes
+tumblr_username:        miguelrentes
+aboutme_username:       rentes
+flickr_username:        mrentes
+google-plus_username:   MiguelRentes
+linkedin_username:      miguelrentes
+instagram_username:     miguelrentes
+stackexchange_username: 114911
 
 # Build settings
 permalink:            pretty

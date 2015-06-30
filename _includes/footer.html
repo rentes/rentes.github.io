@@ -102,6 +102,16 @@
 					  </a>
 					</li>
 					{% endif %}
+					{% if site.stackexchange_username %}
+					<li>
+					<a href="http://stackexchange.com/users/{{ site.stackexchange_username }}">
+					<span class="fa-stack fa-lg">
+						  <i class="fa fa-circle fa-stack-2x"></i>
+						  <i class="fa fa-stack-exchange fa-stack-1x fa-inverse"></i>
+					</span>
+					</a>
+					</li>
+					{% endif %}
                 </ul>
                 <p class="copyright text-muted">Copyright &copy; {{ site.author }} {{ site.time | date: '%Y' }}</p>
             </div>
