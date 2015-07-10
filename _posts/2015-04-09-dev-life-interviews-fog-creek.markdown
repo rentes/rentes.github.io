@@ -20,7 +20,7 @@ what software related books he loves, how is his dev environment and
 how he enters "into the zone" to get the job done. You can read all
 the dev.life interview with Peteris Krumins (click on the image):
 
-[![alt text](http://blog.fogcreek.com/wp-content/uploads/2015/04/peter.png "dev.life interview with Peteris Krumins")](http://blog.fogcreek.com/dev-life-interview-with-peteris-krumins/){: .center-image }
+[![alt text](http://blog.fogcreek.com/wp-content/uploads/2015/04/peter.png "dev.life interview with Peteris Krumins")](http://blog.fogcreek.com/dev-life-interview-with-peteris-krumins/)
 
 
 Inspired by this interview, I also did a search for more dev.life
