@@ -427,3 +427,19 @@ body {
   margin-left: -0.36em;
   margin-right: -0.15em;
 }
+.category a {
+  color: white;
+  background-color: #808080;
+  font-size: 16px;
+  font-style: italic;
+  margin-top: 0;
+  text-decoration: none;
+}
+.category a:hover, a:focus {
+  color: #0085a1;
+  text-decoration: underline;
+}
+.categories a {
+  color: white;
+  font-style: italic;
+}
