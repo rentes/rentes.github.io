@@ -4,6 +4,8 @@ title:  "About requestAnimationFrame"
 date:   2015-02-26 17:43:58
 author: Miguel Rentes
 comments: true
+categories:
+  - javascript
 ---
 
 <div><iframe width="661" height="402" src="https://www.youtube.com/embed/XAqIpGU8ZZk?start=2884" frameborder="0" allowfullscreen=""></iframe></div>

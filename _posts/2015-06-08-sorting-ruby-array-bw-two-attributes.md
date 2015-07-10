@@ -4,6 +4,9 @@ title:  "Sorting a Ruby Array by two attributes"
 date:   2015-06-08 12:43
 author: Miguel Rentes
 comments: true
+categories:
+  - ruby
+  - sorting
 ---
 
 If you ever need to sort a Ruby array of objects by two of its attributes, very much like using an SQL statement with the Order By keyword: 

@@ -4,6 +4,8 @@ title:  "How to learn to code"
 date:   2015-05-05 16:43:52
 author: Miguel Rentes
 comments: true
+categories:
+  - programming
 ---
 
 If you are starting to learn how to code, here is some great piece of advice.

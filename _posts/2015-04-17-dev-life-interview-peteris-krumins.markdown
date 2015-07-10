@@ -4,6 +4,9 @@ title:  "dev.life - interview with Peteris Krumins"
 date:   2015-04-17 10:49:23
 author: Miguel Rentes
 comments: true
+categories:
+  - programming
+  - developers
 ---
 
 The following interview is a personal translation to the Portuguese language of the interview with Peteris Krumins for the dev.life series on the [Fog Creek blog][fogcreek-blog]. You can access the original interview [here][fogcreel-interview-peteris-krumins].
