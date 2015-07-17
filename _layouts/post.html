@@ -22,7 +22,11 @@ layout: default
                     <div class="categories">
                       Read more about 
                       {% for category in page.categories %}
+                      {% if forloop.last %}
                       <a href="{{site.url}}/categories/{{category}}">{{category}}</a>
+                      {% else %}
+                      <a href="{{site.url}}/categories/{{category}}">{{category}}</a>,
+                      {% endif %}
                       {% endfor %}
                     </div>
                 </div>
