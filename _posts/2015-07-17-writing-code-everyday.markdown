@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Writing code everyday"
+title:  "Writing code every day"
 date:   2015-07-17 12:48
 author: Miguel Rentes
 comments: true
