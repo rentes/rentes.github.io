@@ -445,13 +445,13 @@ body {
 }
 .img-responsive {
 }
-.embed-container {
+.about-me {
     position: relative;
     padding-bottom: 124%;
     height: 0;
     overflow: hidden;
 }
-.embed-container img {
+.about-me img {
     top: 0;
     left: 0;
     width: 150px;
