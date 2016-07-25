@@ -19,7 +19,7 @@ stackexchange_username: 114911
 
 # Build settings
 permalink:            pretty
-relative_permalinks:  true
+relative_permalinks:  false
 markdown:             redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
