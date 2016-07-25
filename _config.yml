@@ -20,6 +20,5 @@ stackexchange_username: 114911
 # Build settings
 permalink:            pretty
 relative_permalinks:  false
-highlighter:          pygments
 paginate:             5
 exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md"]
