@@ -20,6 +20,8 @@ Recently I had the need to edit remote files under Windows 10, and I used one of
 
 Replace `<username>` with your Windows user.
 
+Don't forget to check that the environmet variable `%Path%` contains the folder where plink.exe is.
+
 After reloading the init.el configuration file using the command:
 
 ```
