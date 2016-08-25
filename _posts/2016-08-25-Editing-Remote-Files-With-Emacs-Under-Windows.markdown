@@ -38,6 +38,6 @@ and specify the connection string:
 /<remote username>@<remote host>:
 ```
 
-then pressing return and entering the remote username password. _Et voil·!_ 
+then pressing return and entering the remote username password. _Et voil√°!_ 
 
 Until next time, have a lot of coding fun!
