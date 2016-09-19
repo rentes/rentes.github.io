@@ -49,6 +49,8 @@ M-x eval-buffer
 
 Now everytime you start Emacs, you will be using the Cobalt theme.
 
+<a href="https://github.com/emacs-jp/replace-colorthemes/blob/master/screenshots.md">Here</a> are the screenshots for all the themes on the `color-theme-modern` package.
+
 To install just the Cobalt theme:
 
 * Add a diretory to where the theme will be download to. I use a directory named `themes` under my `~/.emacs.d/` directory.
@@ -88,7 +90,5 @@ M-x eval-buffer
 Here is a screenshot of how the Cobalt theme looks like on Emacs:
 
 <img src="/img/CobaltThemeEmacs.png" alt="Cobalt Theme in Emacs" title="Cobalt Theme in Emacs" width="750px"/>
-
-<a href="https://github.com/emacs-jp/replace-colorthemes/blob/master/screenshots.md">Here</a> are the screenshots for all the themes on the `color-theme-modern` package.
 
 Until next time, have an awesome coding fun!
