@@ -10,7 +10,7 @@ categories:
 
 I am a big fan of discovering how other developers work and lately I have started watching the "Day in the Life" series on Youtube:
 
-<div><iframe width="640" height="360" src="https://www.youtube.com/embed/vt79JcPfZQA" frameborder="0" allowfullscreen></iframe></iframe></div>
+<div><iframe width="640" height="360" src="https://www.youtube.com/embed/vt79JcPfZQA" frameborder="0" allowfullscreen></iframe></div>
 
 On this excellent video, you can see at 00:45 the Cobalt theme in Sublime Text editor (I also use this editor at work):
 
