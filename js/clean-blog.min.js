@@ -1,6 +1,6 @@
 /*!
  * Miguel Rentes v1.0.0 (https://rentes.github.io)
- * Copyright 2015 Miguel Rentes
+ * Copyright 2017 Miguel Rentes
  * Licensed under  ()
  */
 

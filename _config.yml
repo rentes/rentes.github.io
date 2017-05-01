@@ -17,6 +17,7 @@ linkedin_username:      miguelrentes
 instagram_username:     miguelrentes
 stackexchange_username: 114911
 encoding:               UTF-8
+gems:                   [jekyll-paginate]
 
 # Build settings
 permalink:            pretty

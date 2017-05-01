@@ -1,6 +1,6 @@
 /*!
  * Miguel Rentes v1.0.0 (https://rentes.github.io)
- * Copyright 2015 Miguel Rentes
+ * Copyright 2017 Miguel Rentes
  * Licensed under  ()
  */
 
@@ -427,34 +427,3 @@ body {
   margin-left: -0.36em;
   margin-right: -0.15em;
 }
-.category a {
-  color: white;
-  background-color: #808080;
-  font-size: 16px;
-  font-style: italic;
-  margin-top: 0;
-  text-decoration: none;
-}
-.category a:hover, a:focus {
-  color: #0085a1;
-  text-decoration: underline;
-}
-.categories a {
-  color: white;
-  font-style: italic;
-}
-.img-responsive {
-}
-.about-me {
-    position: relative;
-    padding-bottom: 124%;
-    height: 0;
-    overflow: hidden;
-}
-.about-me img {
-    top: 0;
-    left: 0;
-    width: 150px;
-    height: 186px;
-}
-
